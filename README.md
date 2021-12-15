@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🧑 &nbsp; I'm a Programmer and Developer
+- 🧑 &nbsp; I'm a software Developer
 - 💻 &nbsp; Love to explore new tech
 - 💻 &nbsp; Software Engineer From IET
 - 💬 &nbsp; Ask me about **React, JavaScript, Node.Js**
